@@ -1,0 +1,7 @@
+.aider*
+plots/
+data/
+*.png
+*.pdf
+*.csv
+*.pkl
